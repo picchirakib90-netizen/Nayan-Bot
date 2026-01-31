@@ -9,15 +9,15 @@
   "saveState": true,
   "banMsg": false,
   "adminOnlyMsg": false,
-  "BOTNAME": "nayan-bot",
+  "BOTNAME": "𝙰𝚜𝚒𝚏-𝚋𝚘𝚝",
   "PREFIX": "/",
   "react": "☠️",
   "OPERATOR": [
     "",
-    "100000959749712"
+    "61584656504701"
   ],
   "ADMINBOT": [
-    "100000959749712",
+    "61584656504701",
     ""
   ],
   "OWNER": ["100000959749712"], 
